@@ -23,7 +23,7 @@ yarn add global give-me-this
 將檔案儲存到 KEY 上，需要注意的是`你提供的 PATH 是一個相對路徑`，<br>
 初始路徑則是基於你當前的所在位置。
 ```bash
-giveme -s <KEY> <PATH>
+giveme -s KEY PATH
 ```
 API
 | param | required | description |
@@ -34,7 +34,7 @@ API
 ##### 取出
 輸入 KEY 將存取的檔案取出。
 ```bash
-giveme <KEY> <PATH>
+giveme KEY PATH
 ```
 API
 | param | required | description |
