@@ -2,7 +2,7 @@
   "name": "giveme",
   "version": "1.0.0",
   "main": "./lib/main.js",
-  "author": "harry.chiu <harry.chiu@jkos.com>",
+  "author": "harry.chiu <harrychiu1106@gmail.com>",
   "license": "MIT",
   "bin": {
     "giveme": "./lib/main.js"
