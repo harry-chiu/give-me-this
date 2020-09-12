@@ -8,12 +8,12 @@
 
 npm
 ```bash
-npm install -g giveme
+npm install -g give-me-this
 ```
 
 yarn
 ```bash
-yarn add global giveme
+yarn add global give-me-this
 ```
 
 ## How To Use
