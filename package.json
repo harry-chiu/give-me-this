@@ -1,6 +1,10 @@
 {
   "name": "give-me-this",
+<<<<<<< HEAD
   "version": "1.0.0",
+=======
+  "version": "1.0.1",
+>>>>>>> cada29fc82ce1e18ad6353dd1e3045ee4dbfd1a7
   "main": "./lib/main.js",
   "author": "harry.chiu <harrychiu1106@gmail.com>",
   "license": "MIT",
