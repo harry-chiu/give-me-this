@@ -4,9 +4,15 @@
   "main": "./lib/main.js",
   "author": "harry.chiu <harrychiu1106@gmail.com>",
   "license": "MIT",
+  "homepage": "https://github.com/harry-chiu/give-me-this",
   "bin": {
     "giveme": "./lib/main.js"
   },
+  "keywords": [
+    "cli",
+    "copy",
+    "save-time"
+  ],
   "dependencies": {
     "chalk": "^4.1.0",
     "commander": "^6.1.0",
