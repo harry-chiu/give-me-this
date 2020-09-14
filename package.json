@@ -1,6 +1,6 @@
 {
   "name": "give-me-this",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "./lib/main.js",
   "author": "harry.chiu <harrychiu1106@gmail.com>",
   "license": "MIT",
